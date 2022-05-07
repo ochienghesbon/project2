@@ -24,7 +24,18 @@ align-self: center;
     }
 #image{
     background-image: url(../images/moving\ 1.png);
-    padding-right: 100px;
-}
+    height: 400px;
+    width: 1000px;
+    padding-left: 50px;
+    }
+    img{
+        height: 300px;
+     }
+.margin{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-around;
+
+}    
     
   
