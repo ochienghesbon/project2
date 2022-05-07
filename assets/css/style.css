@@ -1,0 +1,28 @@
+li{
+align-items: center;
+padding-left: 150px;
+display: inline;
+margin-top: 50px;
+}
+#article{
+    margin-top: 10px;
+    padding: 50px;
+    font-weight: bolder;
+    font-size: x-large;
+    color: #FAFF00;
+    
+}
+#break{
+    margin-top: 5px;
+    padding: 50px;
+    font-weight: 900;
+    margin-bottom: 600px;
+    
+    
+}
+#log{
+    color: #FAFF00;
+    
+    
+    
+}
