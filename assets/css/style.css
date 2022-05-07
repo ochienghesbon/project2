@@ -1,8 +1,9 @@
 li{
 align-items: center;
-padding-left: 150px;
+padding-left: 100px;
 display: inline;
 margin-top: 50px;
+align-self: center;
 }
 #article{
     margin-top: 10px;
@@ -17,12 +18,13 @@ margin-top: 50px;
     padding: 50px;
     font-weight: 900;
     margin-bottom: 600px;
-    
-    
-}
+    }
 #log{
     color: #FAFF00;
-    
-    
-    
+    }
+#image{
+    background-image: url(../images/moving\ 1.png);
+    padding-right: 100px;
 }
+    
+  
