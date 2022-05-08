@@ -27,6 +27,7 @@ align-self: center;
     height: 400px;
     width: 1000px;
     padding-left: 50px;
+    background-size: cover;
     }
     img{
         height: 300px;
