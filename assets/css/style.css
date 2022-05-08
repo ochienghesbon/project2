@@ -47,7 +47,6 @@ align-self: center;
 }
 #super{
     display: flex;
-    border: 2px solid red;
     justify-content: space-evenly;
     padding: 150px;
     
@@ -58,4 +57,7 @@ hr{
 }
 #move{
     padding-left: 200px;
+}
+#grou{
+    background-color: #DBF9FC;
 }
