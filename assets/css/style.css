@@ -35,7 +35,13 @@ align-self: center;
     display: flex;
     margin-top: 50px;
     justify-content: space-around;
-
 }    
-    
+.flo{
+    display: flex;
+    justify-content: space-between;
+}
+.aset{
+    display: flex;
+    justify-content: space-between;
+}
   
