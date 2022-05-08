@@ -107,3 +107,6 @@ hr{
     align-items: center;
     
 }
+#mode{
+    display: flex;
+}
