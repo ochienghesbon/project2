@@ -116,3 +116,8 @@ hr{
     display: flex;
     justify-content: space-evenly;
 }
+#GO{
+    color: aqua;
+    padding-left: 500px;
+
+}
