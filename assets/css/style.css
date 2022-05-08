@@ -69,5 +69,16 @@ hr{
     justify-content: space-evenly;
     margin-top: 50px;
     display: flex;
+    
 }
-
+#mode{
+    display: inline;
+    display: flex;
+    justify-content: space-evenly;
+}
+#item{
+    margin-right: 500px;
+}
+.navigation{
+    background-color: gray;
+}
