@@ -45,4 +45,17 @@ align-self: center;
     display: flex;
     justify-content: space-between;
 }
-  
+#super{
+    display: flex;
+    border: 2px solid red;
+    justify-content: space-evenly;
+    padding: 150px;
+    
+}
+hr{
+    width: 900px
+    
+}
+#move{
+    padding-left: 200px;
+}
