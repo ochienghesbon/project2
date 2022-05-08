@@ -81,6 +81,7 @@ hr{
 }
 .navigation{
     background-color: gray;
+    
 }
 #picta{
     display: flex;
@@ -109,4 +110,9 @@ hr{
 }
 #mode{
     display: flex;
+    
+}
+#chrome{
+    display: flex;
+    justify-content: space-evenly;
 }
