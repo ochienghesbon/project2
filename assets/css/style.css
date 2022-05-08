@@ -64,5 +64,10 @@ hr{
 #read{
     padding-left: 500px;
     color: aqua;
-    
 }
+#pus{
+    justify-content: space-evenly;
+    margin-top: 50px;
+    display: flex;
+}
+
