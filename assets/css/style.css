@@ -132,7 +132,9 @@ hr {
 #item {
     margin-right: 500px;
 }
-
+.dividend{
+    background-color: black;
+}
 .navigation {
     background-color: gray;
 
@@ -183,6 +185,8 @@ hr {
 #chrome {
     display: flex;
     justify-content: space-evenly;
+    color: white;
+    
 }
 
 #GO {
