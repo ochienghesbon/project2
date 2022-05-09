@@ -41,6 +41,15 @@ li {
     background-color: black;
     color: #FAFF00;
 }
+#lias{
+    background-color: #FAFF00;
+    margin-top: 5px;
+    margin-left: 100px;
+}
+.dream{
+    font-weight: 900;
+    margin-left: 100px;
+}
 
 #image {
     background-image: url(../images/moving\ 1.png);
@@ -186,6 +195,11 @@ hr {
     display: flex;
     justify-content: space-evenly;
     color: white;
+    
+}
+.real{
+    color: #FAFF00;
+    margin-left: 100px;
     
 }
 
