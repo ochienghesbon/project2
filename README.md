@@ -1,1 +1,1 @@
-# licensing
+# The project has two webpages,it describes what the "MOVING" company does; the servies it offers.The company manufactures home beddings and offer delivery services to their potential buyers.The webpage displays samples of the beddings and vehicles use for delivery services
