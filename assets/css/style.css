@@ -21,13 +21,23 @@ color: white;
     margin-bottom: 600px;
     color: white;
     }
-#log{
-    color: #FAFF00;
+#log{ 
+    color: black;
     }
+#in{
+    color: #FAFF00;
+}
+#btn{
+        background-color: #FAFF00;
+        
+    }
+#tnd{
+    background-color: black;
+    color: #FAFF00;
+}
 #image{
     background-image: url(../images/moving\ 1.png);
-    height: 400px;
-    width: 1000px;
+    height: 80vh;
     padding-left: 50px;
     background-size: cover;
     }
