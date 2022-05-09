@@ -1,145 +1,191 @@
-li{
-align-items: center;
-padding-left: 100px;
-display: inline;
-margin-top: 50px;
-align-self: center;
-color: white;
+li {
+    align-items: center;
+    padding-left: 100px;
+    display: inline;
+    margin-top: 50px;
+    align-self: center;
+    color: white;
 }
-#article{
+
+#article {
     margin-top: 10px;
     padding: 50px;
     font-weight: bolder;
     font-size: x-large;
     color: #FAFF00;
-    
+
 }
-#break{
+
+#break {
     margin-top: 5px;
     padding: 50px;
     font-weight: 900;
     margin-bottom: 600px;
     color: white;
-    }
-#log{ 
+}
+
+#log {
     color: black;
-    }
-#in{
+}
+
+#in {
     color: #FAFF00;
 }
-#btn{
-        background-color: #FAFF00;
-        
-    }
-#tnd{
+
+#btn {
+    background-color: #FAFF00;
+
+}
+
+#tnd {
     background-color: black;
     color: #FAFF00;
 }
-#image{
+
+#image {
     background-image: url(../images/moving\ 1.png);
     height: 80vh;
     padding-left: 50px;
     background-size: cover;
-    }
-    img{
+}
+
+/* img{
         height: 300px;
-     }
-.margin{
+     } */
+.margin {
+
     display: flex;
     margin-top: 50px;
     justify-content: space-around;
-}    
-.flo{
-    display: flex;
-   justify-content: space-between;
 }
-#PCT{
+
+.flo {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.pik img{
+    width: 47rem !important;
+    margin-right: 2rem
+ 
+}
+
+#PCT {
     height: 200px;
     padding: 5px;
     margin-right: 5;
 
 }
-.aset{
+
+.aset {
     display: flex;
     justify-content: space-between;
 }
-#super{
+
+#super {
     display: flex;
     justify-content: space-evenly;
     padding-top: 30px;
     color: white;
     margin-left: 300px;
-    
+
 }
-hr{
+
+hr {
     width: 900px
-    
 }
-#move{
+
+#move {
     padding-left: 200px;
     color: white;
 }
-#grou{
-    background-color:black;
+
+#grou {
+    background-color: black;
     height: 350px;
 
 }
-#read{
+
+#read {
     padding-left: 500px;
     color: aqua;
 }
-#pus{
+
+#pus {
     justify-content: space-evenly;
     margin-top: 50px;
     display: flex;
-    
+
 }
-#mode{
+
+#mode img {
     display: inline;
     display: flex;
+    width: 15rem;
     justify-content: space-evenly;
+    margin-left: 3rem;
 }
-#item{
+.tagit img{
+    height: 13rem;
+}
+#item {
     margin-right: 500px;
 }
-.navigation{
+
+.navigation {
     background-color: gray;
-    
+
 }
-#picta{
+
+#picta {
     display: flex;
+
 }
-#juba{
+
+#picta img {
+
+    margin-right: 2rem;
+    width: 5rem;
+}
+
+#juba {
     padding-left: 150px;
 }
-#online{
+
+#online {
     justify-content: space space-between;
     font-weight: 900;
     display: inline;
 }
-.box{
-    
+
+.box {
+
     box-sizing: content-box;
     padding-top: 50px;
     background-color: whitesmoke;
     box-shadow: whitesmoke;
 }
-#feat{
+
+#feat {
     display: inline;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    
+
 }
-#mode{
+
+#mode {
     display: flex;
-    
+
 }
-#chrome{
+
+#chrome {
     display: flex;
     justify-content: space-evenly;
 }
-#GO{
+
+#GO {
     color: aqua;
     padding-left: 500px;
 
