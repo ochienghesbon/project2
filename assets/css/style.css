@@ -58,14 +58,13 @@ li {
     background-size: cover;
 }
 
-/* img{
-        height: 300px;
-     } */
+
 .margin {
 
     display: flex;
     margin-top: 50px;
     justify-content: space-around;
+    
 }
 
 .flo {
@@ -115,7 +114,7 @@ hr {
     height: 350px;
 
 }
-
+f
 #read {
     padding-left: 500px;
     color: aqua;
@@ -125,6 +124,7 @@ hr {
     justify-content: space-evenly;
     margin-top: 50px;
     display: flex;
+    
 
 }
 
@@ -135,18 +135,27 @@ hr {
     justify-content: space-evenly;
     margin-left: 3rem;
 }
+#bat{
+    background-color: #FAFF00;
+}
 .tagit img{
     height: 13rem;
 }
 #item {
     margin-right: 500px;
+    margin-left: 150px;
 }
 .dividend{
     background-color: black;
+    margin-bottom: 100px;
 }
-.navigation {
-    background-color: gray;
-
+.navi{
+    background-color: black;
+    opacity: 0.8;
+}
+.dept{
+    margin-left: 150px;
+    background-color: whitesmoke;
 }
 
 #picta {
@@ -188,6 +197,7 @@ hr {
 
 #mode {
     display: flex;
+    color: white;
 
 }
 
@@ -205,6 +215,10 @@ hr {
 
 #GO {
     color: aqua;
-    padding-left: 500px;
+    margin-left: 600px;
+    color: red;
+    font-weight: bolder;
+    align-items: center;
+    margin-bottom: 200px;
 
 }
