@@ -1,6 +1,6 @@
 # Moving company
-#### The application shows services the company is offering, 6/5/2022
-#### By **{List of contributors}**
+#### The application shows services the company  offers, 6/5/2022
+#### By **Hesbon Ochieng**
 ## Description
 the application shows the products of the moving company, it also displays other services such as transportation which are also offered by the same company alongside sales, the application has two web pages.
 ## Setup/Installation Requirements
