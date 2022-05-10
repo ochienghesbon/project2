@@ -72,6 +72,9 @@ li {
     justify-content: space-between;
     
 }
+#lazier img{
+    width: 25rem;
+}
 
 .pik img{
     width: 47rem !important;
